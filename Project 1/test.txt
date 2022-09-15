@@ -1,0 +1,8 @@
+git clone https://github.com/peter-amerkhanian/Computational-Social-Science-Projects.git
+mkdir "Project 1"
+touch "Project 1"/test.txt
+nano "Project 1"/test.txt
+
+git add *
+git commit -m "My Message"
+git push
